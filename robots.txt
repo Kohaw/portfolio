@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /css/
 Disallow: /js/
-Sitemap: https://kohaw.github.io/portfolio_syte/sitemap.xml
+Sitemap: https://kohaw.github.io/portfolio/sitemap.xml
